@@ -1,0 +1,13 @@
+*{
+    margin:0;
+}
+.Users{
+    border:3px solid black;
+    display: inline-block;
+    background-color: rgb(229, 229, 209);
+    padding: 20px;
+    margin:10px;
+}
+.Users h1{
+    color:rgb(188, 100, 23);
+}
